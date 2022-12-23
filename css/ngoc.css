@@ -98,8 +98,8 @@ h1, .headline-overlay {
 }
 
 .window {
-    width: 360px;
-    height: 360px;
+    width: 320px;
+    height: 320px;
     background: #a6b6c9;
     position: absolute;
     top: 50%;
