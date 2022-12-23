@@ -68,7 +68,7 @@ h1, .headline-overlay {
     color: #fff;
     width: 100%;
     text-align: center;
-    font-size: 1.6em;
+    font-size: 1.4em;
 }
 
 @keyframes opacityBlink {
@@ -758,7 +758,7 @@ h1, .headline-overlay {
     width: 25%;
     position: absolute;
     left: 4%;
-    top: 20%;
+    top: 30%;
 }
 
 svg {
