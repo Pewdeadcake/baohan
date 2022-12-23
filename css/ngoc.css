@@ -755,10 +755,10 @@ h1, .headline-overlay {
 }
 
 .xmas-tree {
-    width: 35%;
+    width: 32%;
     position: absolute;
-    left: 2%;
-    top: 35%;
+    left: 1%;
+    top: 40%;
 }
 
 svg {
