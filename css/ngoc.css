@@ -103,7 +103,7 @@ h1, .headline-overlay {
     background: #a6b6c9;
     position: absolute;
     top: 50%;
-    left: 55%;
+    left: 50%;
     border-radius: 50%;
     transform: translate(-50%, -50%);
     border: 10px solid #fdfbf9;
@@ -755,7 +755,7 @@ h1, .headline-overlay {
 }
 
 .xmas-tree {
-    width: 25%;
+    width: 35%;
     position: absolute;
     left: 4%;
     top: 40%;
