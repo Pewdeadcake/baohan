@@ -281,8 +281,11 @@ window.onload = function () {
 
 function reveal() {
   //document.querySelector('.merrywrap').style.backgroundColor = 'transparent';
-  window.location.href = 'ngoc.html'
-
+  //window.location.href = 'ngoc.html'
+  document.querySelector("#btn").style.display='none';
+  document.querySelector(".christmas").style.display='block';
+  var audio = new Audio('We-Wish-You-A-Merry-Christmas.mp3');
+  audio.play();
   loop();
 
   var w, h;
